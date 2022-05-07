@@ -1,2 +1,2 @@
-# auto_tests_course
-home project
+# My first commit
+
